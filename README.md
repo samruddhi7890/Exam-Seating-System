@@ -14,7 +14,7 @@ A Java-based console application that helps organize and assign students to exam
 
 How It Works
 
-The user is prompted to enter:
+1. The user is prompted to enter:
 
 Maximum number of students allowed per room
 
@@ -22,7 +22,7 @@ Number of students
 
 Each student's name, roll number, and subject
 
-The system:
+2. The system:
 
 Sorts students by roll number
 
@@ -34,17 +34,17 @@ Finally, a clean room-wise seating arrangement is printed.
 
 How to Run
 
-Clone the repository or copy the files to a folder:
+1. Clone the repository or copy the files to a folder:
 
 git clone https://github.com/your-username/ExamSeatingSystem.git
 
 cd ExamSeatingSystem
 
-Compile the Java files:
+2. Compile the Java files:
 
 javac ExamSeatingSystem.java
 
-Run the program:
+3. Run the program:
 
 java ExamSeatingSystem
 
